@@ -1,4 +1,4 @@
-# KylovSubspaceLibrary
+# KrylovSubspaceLibrary
 **KrylovSubspaceLibrary** is a Python library that provides scalable, matrix-free Krylov subspace optimization methods for training AI models - designed as a faster and more stable alternative to gradient descent.
 This library is built with extensibility, performance, and deep learning integration in mind, offering optimizers, and solvers based on Krylov techniques like Conjugate Gradient (CG)
 
